@@ -14,7 +14,7 @@ if kota == 1:
     if kelas == 4:
         harga = 100000
     elif kelas == 5:
-            harga = 700000
+            harga = 400000
     elif kelas == 6:
             harga = 700000
 elif kota == 2:
