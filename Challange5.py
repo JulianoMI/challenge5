@@ -52,8 +52,7 @@ subTotal = harga * banyak_tiket
 harga_diskon = subTotal * diskon
 Total = subTotal - harga_diskon
 
-print("Harga Tiket: ", harga)
-print("Subtotal: ", subTotal)
-print("Diskon: ", harga_diskon)
-print("Total Bayar: ", Total)
-
+print("Harga Tiket: \tRp. ", harga)
+print("Subtotal: \tRp. ", subTotal)
+print("Diskon: \tRp. ", harga_diskon)
+print("Total Bayar: \tRp. ", Total)
